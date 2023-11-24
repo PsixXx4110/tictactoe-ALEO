@@ -1,5 +1,5 @@
 <!-- # ⭕ Tic-Tac-Toe -->
-My discord: PsixXx#4110
+My discord: psixxx4110
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
